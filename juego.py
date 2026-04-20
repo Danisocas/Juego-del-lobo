@@ -63,6 +63,8 @@ juego.anadirJugador("Carlos","aldeano")
 print(juego.jugadores[0].AccionNocturna(juego.jugadores[2]))
 print(juego.ComprobarVictoria())
 
+print(" el juego del lobo se ha iniciado correctamente")
+
 
 # Intenta estructurar el main.py con el siguiente orden.
 # --- FASE 1: LA NOCHE 🌙 ---
